@@ -1,2 +1,2 @@
 # Base64 Encoder
-[Play](https://a-game-engine.github.io/base64/)
+[Play](https://aught-ace.github.io/base64/)
